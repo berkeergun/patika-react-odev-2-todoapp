@@ -17,7 +17,7 @@ function ListTodo({ todos, updateTodo }) {
     console.log(name, "Done");
     updateTodo(todos.filter((item) => item.todo !== name));
 
-    alertify.success(name+" Done! Congratulations!");
+    alertify.success(name+" Done!");
   };
 
   const deleteAllTodos = () => {
