@@ -1,9 +1,9 @@
-<<<<<<< HEAD
+
 # To Do App
 ![react-todo](./src/todo.jpg)
-=======
+
 # React To Do App
->>>>>>> 5e7fefc4699862385e5fcc89acc8554ad90c29a0
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
